@@ -1,4 +1,4 @@
-# Edunet-Foundation-Intership-Customer-Segmentation-Models-Using-Python
+# Edunet-Foundation-Advanced Data Analytics-Internship 
 
 ● Analyzed large datasets to identify distinct customer groups. 
 
